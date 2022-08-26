@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi there 👋! I'm Tomasz
 
-<!--
-**ttargonski/ttargonski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m looking for a job as Frontend Developer...
 
-Here are some ideas to get you started:
+### 🔨 My development tools
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* SaSS
+* ReactJS
+* VS Code
+* Git
+* Chrome DevTools   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning:
+* PHP
+* TypeScript
+* Angular
+
+
+
+### 📫 How to reach me: 
+* 📧 tomasz.targonski95@gmail.com
+* 👉 [ttargonski](https://ttargonski.netlify.app/)
+
