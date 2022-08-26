@@ -1,4 +1,4 @@
-## Hi there 👋! I'm Tomasz
+### Hi there 👋! I'm Tomasz
 
 👀 I’m looking for a job as Frontend Developer.
 
