@@ -26,5 +26,5 @@
 
 ### 📫 How to reach me 
 * 📧 tomasz.targonski95@gmail.com
-* 👉 [ttargonski](https://ttargonski.netlify.app/)
+* 👉 Website: [ttargonski](https://ttargonski.netlify.app/)
 
