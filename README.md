@@ -1,27 +1,24 @@
 ### Hi there 👋! I'm Tomasz
 
-👀 I’m looking for a job as Frontend Developer.
-
 ### 🔨 My development tools
 * HTML
 * CSS
-* JavaScript
+* JavaScript / TypeScript
 * Bootstrap
 * SaSS
 * ReactJS
 * REST API
 * SQL
 * MongoDB
-* VS Code
 * Git
 * Chrome DevTools
 * Postman
 
 
+
 ### 🌱 I’m currently learning
-* PHP
-* TypeScript
 * Angular
+* ASP.Net
 
 
 ### 📫 How to reach me 
