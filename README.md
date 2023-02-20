@@ -4,9 +4,11 @@
 * HTML
 * CSS
 * JavaScript / TypeScript
+* ReactJS
+* C#
+* .NET
 * Bootstrap
 * SaSS
-* ReactJS
 * REST API
 * SQL
 * MongoDB
@@ -14,12 +16,8 @@
 * Chrome DevTools
 * Postman
 
-
-
 ### 🌱 I’m currently learning
 * Angular
-* ASP.Net
-
 
 ### 📫 How to reach me 
 * 📧 tomasz.targonski95@gmail.com
