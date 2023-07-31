@@ -3,7 +3,7 @@
 ### 🔨 My development tools
 * HTML
 * CSS, SASS, SCSS
-* Bootstrap
+* Bootstrap, Material UI
 * JavaScript / TypeScript
 * ReactJS
 * Angular
