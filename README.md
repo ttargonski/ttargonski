@@ -2,22 +2,20 @@
 
 ### 🔨 My development tools
 * HTML
-* CSS
+* CSS, SASS, SCSS
+* Bootstrap
 * JavaScript / TypeScript
 * ReactJS
+* Angular
 * C#
-* .NET
-* Bootstrap
-* SaSS
+* ASP.NET
 * REST API
 * SQL
+* Microsoft SQL Server
 * MongoDB
 * Git
 * Chrome DevTools
 * Postman
-
-### 🌱 I’m currently learning
-* Angular
 
 ### 📫 How to reach me 
 * 📧 tomasz.targonski95@gmail.com
